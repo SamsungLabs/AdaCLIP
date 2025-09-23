@@ -1,0 +1,8 @@
+tqdm==4.64.1
+tensorboard==2.11.2
+easydict==1.7
+ftfy==6.1.1
+regex==2022.10.31
+ptflops==0.6.9
+pandas==1.3.5
+einops==0.6.0
